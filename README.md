@@ -9,7 +9,7 @@ This project implements an **image classification model** using **Convolutional 
 
 - **📂 Data Preparation**: Loading and preprocessing images.  
 - **🧠 Model Architecture**: Building a CNN using TensorFlow/Keras.  
-- **📊 Model Training & Evaluation**: Measuring accuracy and loss over multiple epochs.  
+- **📊 Model Training & Evaluation**: Measuring accuracy and loss over multiple epochs and training over 32 neural layers.
 - **📈 Visualization**: Using Matplotlib & Seaborn for insights.  
 - **📷 Image Processing**: OpenCV integration for preprocessing.  
 
